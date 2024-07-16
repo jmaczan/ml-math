@@ -1,7 +1,16 @@
 # ml-math
 
-Notes from Tivadar Danka "Mathematics of Machine Learning"
+Notes from Tivadar Danka's "Mathematics of Machine Learning"
 
-There is a [Jupyter Notebook here](notebook.ipynb)
+### Setup
 
-Thanks, Jędrzej
+#### Prerequisities
+
+- Python >= 3.10
+- Anaconda >= 23.3.1
+
+### Installation
+
+```
+conda install --file requirements.txt
+```

@@ -1,6 +1,6 @@
 # ml-math
 
-Notes from Tivadar Danka's "Mathematics of Machine Learning"
+Notes from Tivadar Danka's "Mathematics of Machine Learning" and Sheldon Axler's "Linear Algebra Done Right"
 
 ### Setup
 
